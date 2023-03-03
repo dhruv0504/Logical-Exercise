@@ -1,6 +1,5 @@
 """
 link: https://leetcode.com/problems/first-missing-positive/ 
-ans-link: https://colab.research.google.com/drive/1FMBe4W5UdEK2c1bD7LShF8ZHgWE0uDCp
 
 Given an unsorted integer array nums, return the smallest missing positive integer.
 
