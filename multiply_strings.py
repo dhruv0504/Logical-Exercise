@@ -1,6 +1,5 @@
 """
 link:https://leetcode.com/problems/multiply-strings/
-ans-link:       https://colab.research.google.com/drive/1s1o3nMhAjHuOvtqhSISwLpCJVj67285f
 
 Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
 
