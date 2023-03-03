@@ -1,6 +1,6 @@
 """
 link: https://leetcode.com/problems/median-of-two-sorted-arrays/
-ans-link: https://colab.research.google.com/drive/1UDpdwz30BS33GgzKdxGDIhxVl9w7jteT
+
 
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
