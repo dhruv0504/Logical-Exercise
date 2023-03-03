@@ -1,8 +1,7 @@
 """
 link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-ans-link: https://colab.research.google.com/drive/1Pa0tH7GSe1Xyki1A91ALPLibC5I_gxU4#scrollTo=i8Pk2zRv6u1P
 
-Given the head of a linked list, remove the nth node from the end of the list and return its head. 
+Remove the nth node from the end of the list and return it. 
 
 Example 1:
 
