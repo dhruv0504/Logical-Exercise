@@ -1,6 +1,6 @@
 """
 link:https://leetcode.com/problems/single-number/
-ans-link:https://colab.research.google.com/drive/1JeqF4X156Li08KmQyeDtMo3dCqf6Axc8
+
 
 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 
