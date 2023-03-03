@@ -1,6 +1,5 @@
 """
 link: https://leetcode.com/problems/powx-n/
-ans-link: https://colab.research.google.com/drive/1qjBKBTQAFtoq4btKow58_lINp-9NOcKB#scrollTo=jJ4zhzFmCxdz
 
 Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
