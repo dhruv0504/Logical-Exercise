@@ -1,8 +1,7 @@
 """
 link: https://leetcode.com/problems/swap-nodes-in-pairs/
-ans-link: https://colab.research.google.com/drive/18NFSDilkt3bxcQiBK1fW6Dfn2KvL1pL-
 
-Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+Given a list, swap every two adjacent and return it. You must solve the problem without modifying the values in the list (i.e., only themselves may be changed.)
 
 Example 1:
 
