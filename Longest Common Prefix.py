@@ -1,6 +1,5 @@
 """
 link: https://leetcode.com/problems/longest-common-prefix/
-ans-link:https://colab.research.google.com/drive/1Ay80-OK8dRIdKKdynH-O6Nni6u207aFE
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
