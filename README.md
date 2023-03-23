@@ -85,7 +85,7 @@ All logical problem statement taken from leetcode, GFG, codechef, codeforce, goo
 7. https://leetcode.com/problems/powx-n/
 8. https://leetcode.com/problems/longest-consecutive-sequence/ 
 
-🛑 Day 6
+🛑 Day 6 (curated)
 
 1. https://leetcode.com/problems/trapping-rain-water/
 2. Given an array of strings, group anagrams together.
@@ -99,7 +99,7 @@ All logical problem statement taken from leetcode, GFG, codechef, codeforce, goo
 9. https://codeforces.com/problemset/problem/732/A
 10. https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1?page=4&curated[]=1&sortBy=submissions
 
-🛑 Day 7
+🛑 Day 7 (curated)
 
 1. https://codeforces.com/problemset/problem/1800/D
 2. https://codeforces.com/problemset/problem/1800/A
