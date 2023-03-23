@@ -2,7 +2,7 @@
 
 ```
 ✅ 1. https://projecteuler.net/problem=22
-2. https://codeforces.com/problemset/problem/1792/B
+✅ 2. https://codeforces.com/problemset/problem/1792/B
 ✅ 3. https://codeforces.com/problemset/problem/1765/E
 ✅ 4. https://www.codechef.com/problems/ATM2
 ✅ 5. https://www.codechef.com/problems/CNDY
